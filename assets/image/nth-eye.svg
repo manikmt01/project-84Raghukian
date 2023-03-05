@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221.575" height="75.336" viewBox="0 0 221.575 75.336">
+  <g id="Group_2" data-name="Group 2" transform="translate(-16.76 -181.852)">
+    <text id="nth" transform="translate(101.699 224.953)" fill="#fff" font-size="44" font-family="Helvetica"><tspan x="0" y="0">nth</tspan></text>
+    <text id="eye" transform="translate(167.334 224.655)" fill="#2c9efc" font-size="44" font-family="Helvetica"><tspan x="0" y="0">eye</tspan></text>
+    <text id="Integrity_Delivered" data-name="Integrity Delivered" transform="translate(104.8 238.601)" fill="#fff" font-size="7" font-family="Helvetica"><tspan x="0" y="0">Integrity Delivered</tspan></text>
+    <path id="Path_746" data-name="Path 746" d="M4.265,0H45.723a4.265,4.265,0,0,1,4.265,4.265V45.723a4.265,4.265,0,0,1-4.265,4.265H4.265A4.265,4.265,0,0,1,0,45.723V4.265A4.265,4.265,0,0,1,4.265,0Z" transform="translate(54.428 184.174) rotate(45)" fill="#2c9efc"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(49.461 202.946)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="4.967" cy="4.967" r="4.967" transform="translate(0 0)" fill="#fff"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="4.967" cy="4.967" r="4.967" transform="translate(0 23.215)" fill="#fff"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M51.7,257.188a6.4,6.4,0,0,1-4.914-2.287l-28.527-34a6.415,6.415,0,0,1,.79-9.028l34-28.527a6.415,6.415,0,0,1,9.028.789l28.527,34a6.408,6.408,0,0,1-.79,9.028l-34,28.527A6.38,6.38,0,0,1,51.7,257.188Zm-4.32-2.785a5.64,5.64,0,0,0,7.936.695l34-28.527a5.633,5.633,0,0,0,.695-7.936l-28.527-34a5.639,5.639,0,0,0-7.936-.694l-34,28.527a5.639,5.639,0,0,0-.694,7.936Z" transform="translate(0 0)" fill="#2c9efc"/>
+  </g>
+</svg>

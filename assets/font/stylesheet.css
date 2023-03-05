@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Averta OP';
+  src: url('AvertaOP-Regular.eot');
+  src: url('AvertaOP-Regular.eot?#iefix') format('embedded-opentype'),
+    url('AvertaOP-Regular.woff2') format('woff2'),
+    url('AvertaOP-Regular.woff') format('woff'),
+    url('AvertaOP-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Averta OP';
+  src: url('AvertaOP-Bold.eot');
+  src: url('AvertaOP-Bold.eot?#iefix') format('embedded-opentype'),
+    url('AvertaOP-Bold.woff2') format('woff2'),
+    url('AvertaOP-Bold.woff') format('woff'),
+    url('AvertaOP-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Adelle-SemiBold';
+  src: url('Adelle-SemiBold.eot');
+  src: url('Adelle-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('Adelle-SemiBold.woff2') format('woff2'),
+    url('Adelle-SemiBold.woff') format('woff'),
+    url('Adelle-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
